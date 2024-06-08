@@ -17,10 +17,10 @@ Netfliquis é uma página de destino protótipo para um serviço de streaming fi
 - 
 ## Imagens
 
-![Design Responsivo](./assets/mobile,png)
+![Design Responsivo](/assets/mobile,png)
 
 
-![Design Desktop](./assets/Netfliquis desktop.png)
+![Design Desktop](./assets/Netfliquis desktop.png).
 
 ## Instalação
 
